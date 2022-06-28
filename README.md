@@ -1,6 +1,6 @@
 getgenv().Prediction = ( .18 ) -- [ PREDICTION: Lower Prediction: Lower Ping | Higher Prediction: Higher Ping ]
 
-getgenv().FOV = ( 100 ) -- [ FOV RADIUS: Increases Or Decreases FOV Radius ]
+getgenv().FOV = ( 90 ) -- [ FOV RADIUS: Increases Or Decreases FOV Radius ]
 
 getgenv().AimKey = ( "c" ) -- [ TOGGLE KEY: Toggles Silent Aim On And Off ]
 
